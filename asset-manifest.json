@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/f2solution/static/css/main.0fe711ad.css",
-    "main.js": "/f2solution/static/js/main.66079735.js",
-    "static/media/Brochure.pdf": "/f2solution/static/media/Brochure.8a02813633bb8b999550.pdf",
-    "static/media/loan.jpg": "/f2solution/static/media/loan.fe8be279bd7e2e43f37a.jpg",
-    "static/media/CERT5.jpg": "/f2solution/static/media/CERT5.f87708044a9c5204fcd2.jpg",
-    "static/media/CERT6.jpg": "/f2solution/static/media/CERT6.eabd3560cb2da76c8e99.jpg",
-    "static/media/frontier.jpeg": "/f2solution/static/media/frontier.9dafe39a178da24698fa.jpeg",
-    "static/media/CERT2.jpeg": "/f2solution/static/media/CERT2.f546829f47e4625e27de.jpeg",
-    "static/media/CERT4.jpeg": "/f2solution/static/media/CERT4.c14347a27054b50bc632.jpeg",
-    "static/media/CERT3.jpeg": "/f2solution/static/media/CERT3.c64d05e12878ed7f8699.jpeg",
-    "static/media/Finance.jpg": "/f2solution/static/media/Finance.704a9cd7f54c0347ac94.jpg",
-    "static/media/CERT1.jpeg": "/f2solution/static/media/CERT1.3751786a527a605f567b.jpeg",
-    "static/media/heroImage.png": "/f2solution/static/media/heroImage.dbba8da7d495b95fa046.png",
-    "static/media/Ashish.jpeg": "/f2solution/static/media/Ashish.5af32867b1d92bd47547.jpeg",
-    "static/media/insurance.jpg": "/f2solution/static/media/insurance.1f97814ce4d567b6b92a.jpg",
-    "static/media/subsidary.jpeg": "/f2solution/static/media/subsidary.e3cbfe69003fae94f5a9.jpeg",
-    "static/media/solar.jpeg": "/f2solution/static/media/solar.cd7712da4ca45bf7756a.jpeg",
-    "index.html": "/f2solution/index.html",
-    "main.0fe711ad.css.map": "/f2solution/static/css/main.0fe711ad.css.map",
-    "main.66079735.js.map": "/f2solution/static/js/main.66079735.js.map"
+    "main.css": "/static/css/main.0fe711ad.css",
+    "main.js": "/static/js/main.d76228c6.js",
+    "static/media/Brochure.pdf": "/static/media/Brochure.8a02813633bb8b999550.pdf",
+    "static/media/loan.jpg": "/static/media/loan.fe8be279bd7e2e43f37a.jpg",
+    "static/media/CERT5.jpg": "/static/media/CERT5.f87708044a9c5204fcd2.jpg",
+    "static/media/CERT6.jpg": "/static/media/CERT6.eabd3560cb2da76c8e99.jpg",
+    "static/media/frontier.jpeg": "/static/media/frontier.9dafe39a178da24698fa.jpeg",
+    "static/media/CERT2.jpeg": "/static/media/CERT2.f546829f47e4625e27de.jpeg",
+    "static/media/CERT4.jpeg": "/static/media/CERT4.c14347a27054b50bc632.jpeg",
+    "static/media/CERT3.jpeg": "/static/media/CERT3.c64d05e12878ed7f8699.jpeg",
+    "static/media/Finance.jpg": "/static/media/Finance.704a9cd7f54c0347ac94.jpg",
+    "static/media/CERT1.jpeg": "/static/media/CERT1.3751786a527a605f567b.jpeg",
+    "static/media/heroImage.png": "/static/media/heroImage.dbba8da7d495b95fa046.png",
+    "static/media/Ashish.jpeg": "/static/media/Ashish.5af32867b1d92bd47547.jpeg",
+    "static/media/insurance.jpg": "/static/media/insurance.1f97814ce4d567b6b92a.jpg",
+    "static/media/subsidary.jpeg": "/static/media/subsidary.e3cbfe69003fae94f5a9.jpeg",
+    "static/media/solar.jpeg": "/static/media/solar.cd7712da4ca45bf7756a.jpeg",
+    "index.html": "/index.html",
+    "main.0fe711ad.css.map": "/static/css/main.0fe711ad.css.map",
+    "main.d76228c6.js.map": "/static/js/main.d76228c6.js.map"
   },
   "entrypoints": [
     "static/css/main.0fe711ad.css",
-    "static/js/main.66079735.js"
+    "static/js/main.d76228c6.js"
   ]
 }
