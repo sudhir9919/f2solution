@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/f2solution/static/css/main.3bf57495.css",
-    "main.js": "/f2solution/static/js/main.8ef79850.js",
-    "static/media/Brochure.pdf": "/f2solution/static/media/Brochure.8a02813633bb8b999550.pdf",
-    "static/media/CERT5.jpg": "/f2solution/static/media/CERT5.f87708044a9c5204fcd2.jpg",
-    "static/media/CERT6.jpg": "/f2solution/static/media/CERT6.eabd3560cb2da76c8e99.jpg",
-    "static/media/frontier.jpeg": "/f2solution/static/media/frontier.9dafe39a178da24698fa.jpeg",
-    "static/media/CERT2.jpeg": "/f2solution/static/media/CERT2.f546829f47e4625e27de.jpeg",
-    "static/media/CERT4.jpeg": "/f2solution/static/media/CERT4.c14347a27054b50bc632.jpeg",
-    "static/media/CERT3.jpeg": "/f2solution/static/media/CERT3.c64d05e12878ed7f8699.jpeg",
-    "static/media/Finance.jpg": "/f2solution/static/media/Finance.704a9cd7f54c0347ac94.jpg",
-    "static/media/CERT1.jpeg": "/f2solution/static/media/CERT1.3751786a527a605f567b.jpeg",
-    "static/media/heroImage.png": "/f2solution/static/media/heroImage.dbba8da7d495b95fa046.png",
-    "index.html": "/f2solution/index.html",
-    "main.3bf57495.css.map": "/f2solution/static/css/main.3bf57495.css.map",
-    "main.8ef79850.js.map": "/f2solution/static/js/main.8ef79850.js.map"
+    "main.css": "/static/css/main.3bf57495.css",
+    "main.js": "/static/js/main.3e58f0da.js",
+    "static/media/Brochure.pdf": "/static/media/Brochure.8a02813633bb8b999550.pdf",
+    "static/media/CERT5.jpg": "/static/media/CERT5.f87708044a9c5204fcd2.jpg",
+    "static/media/CERT6.jpg": "/static/media/CERT6.eabd3560cb2da76c8e99.jpg",
+    "static/media/frontier.jpeg": "/static/media/frontier.9dafe39a178da24698fa.jpeg",
+    "static/media/CERT2.jpeg": "/static/media/CERT2.f546829f47e4625e27de.jpeg",
+    "static/media/CERT4.jpeg": "/static/media/CERT4.c14347a27054b50bc632.jpeg",
+    "static/media/CERT3.jpeg": "/static/media/CERT3.c64d05e12878ed7f8699.jpeg",
+    "static/media/Finance.jpg": "/static/media/Finance.704a9cd7f54c0347ac94.jpg",
+    "static/media/CERT1.jpeg": "/static/media/CERT1.3751786a527a605f567b.jpeg",
+    "static/media/heroImage.png": "/static/media/heroImage.dbba8da7d495b95fa046.png",
+    "index.html": "/index.html",
+    "main.3bf57495.css.map": "/static/css/main.3bf57495.css.map",
+    "main.3e58f0da.js.map": "/static/js/main.3e58f0da.js.map"
   },
   "entrypoints": [
     "static/css/main.3bf57495.css",
-    "static/js/main.8ef79850.js"
+    "static/js/main.3e58f0da.js"
   ]
 }
